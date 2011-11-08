@@ -19,4 +19,5 @@ no_index:
     - inc
 requires:
   Data::Dumper: 0
-version: 0.02
+  Test::More: 0.88
+version: 0.03

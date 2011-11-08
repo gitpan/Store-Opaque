@@ -19,5 +19,4 @@ no_index:
     - inc
 requires:
   Data::Dumper: 0
-  XS::Object::Magic: 0.04
-version: 0.01
+version: 0.02

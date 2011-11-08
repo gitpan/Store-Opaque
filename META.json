@@ -32,11 +32,10 @@
       },
       "runtime" : {
          "requires" : {
-            "Data::Dumper" : 0,
-            "XS::Object::Magic" : "0.04"
+            "Data::Dumper" : 0
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
